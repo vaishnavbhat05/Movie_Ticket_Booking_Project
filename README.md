@@ -24,7 +24,7 @@ Response:
     "pincode": "590056"
 }
 
-### To add theater to the BD 
+### To add theater to the DB 
 here theater reference to the key_id of the city as primary key so make sure to pass the valid city id 
 URL: /api/{CityID}/theater
 Method: POST
